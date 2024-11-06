@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Jeffrey2001-max
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning software programming!
-- 💞️ I’m looking to collaborate on team!
-- 📫 How to reach me Through my social networks, pixelcibernetico, in tiktok as pixel.ciber, and discord pixel_cibernetico, email: I already told you.
-- 😄 Pronouns: He
-- ⚡ Fun fact: Playing video games and hanging out on discord.
+- 👋 Hola, soy @Jeffrey2001-max
+- 👀 ¡Me interesa la programación!
+- 🌱 ¡Actualmente estoy aprendiendo programación de software!
+- 💞️ ¡Estoy buscando colaborar en el equipo!
+- 📫 Cómo llegar a mí A través de mis redes sociales, pixelcibernetico, en tiktok como pixel.ciber, y discord pixel_cibernetico, correo electrónico: ya te lo dije.
+- 😄 Pronombres: Él
+- ⚡Dato curioso: jugar videojuegos y salir en discord.
 
 <!---
-Jeffrey2001-max/Jeffrey2001-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Jeffrey2001-max/Jeffrey2001-max es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
+Puede hacer clic en el enlace Vista previa para ver los cambios.
 --->
